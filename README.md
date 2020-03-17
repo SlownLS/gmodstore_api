@@ -3,6 +3,9 @@ A simple php library for GmodStore API
 
 # Installation 
 To install this library use composer
+~~~
+composer require SlownLS/gmodstore_api
+~~~
 
 # Wiki
 
