@@ -1,7 +1,7 @@
 {
     "name": "slownls/gmodstore_api",
     "description": "A simple php library for GmodStore API",
-    "keywords": ["slownls", "steam", "api", "object-oriented"],
+    "keywords": ["slownls", "gmodstore", "api", "object-oriented"],
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
