@@ -1,0 +1,21 @@
+{
+    "name": "slownls/gmodstore_api",
+    "description": "A simple php library for GmodStore API",
+    "keywords": ["slownls", "steam", "api", "object-oriented"],
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "SlownLS",
+            "email": "slownls.luca@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "SlownLS\\GmodStore\\": "src/"
+        }
+    }        
+}
